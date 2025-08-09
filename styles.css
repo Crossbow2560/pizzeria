@@ -64,3 +64,8 @@ img{
 	display: inline-table;
 	font-size: 20px;
 }
+
+.pizza-price{
+	font-weight: bolder;
+	font-size: 20px;
+}
