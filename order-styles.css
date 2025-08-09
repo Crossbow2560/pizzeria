@@ -17,9 +17,6 @@
 	width: 100%;
 	font-family: cursive;
 	font-weight: bolder;
-	text-align: left;
-	padding-left: 20px;
-	padding-top: 10px;
 }
 
 .header {
@@ -31,7 +28,7 @@
 }
 
 .logo {
-    height: 100px;   /* Adjust size */
+    height: 150px;   /* Adjust size */
     width: auto;    /* Keep proportions */
 }
 
@@ -39,4 +36,12 @@
 	font-size: 30px;
 	text-align: center;
 	font-weight: bolder;
+}
+
+#slogan{
+	width: 100%;
+	font-weight: bold;
+	font-size: 15px;
+	font-family: cursive;
+	color: #4C4C54;
 }
