@@ -1,0 +1,41 @@
+#heading{
+	font-size: 40px;
+	font-family: Arial, Helvetical, sans-serif;
+	font-weight: bolder;
+}
+
+.menu{
+	font-family: Arial, Helvetical, sans-serif;
+}
+
+#menu-heading{
+	font-size: 30px;
+	font-weight: bolder;
+}
+
+.menu-item-heading{
+	font-size: 30px;
+	font-family: Arial, Helvetical, sans-serif;
+	font-weight: bold;
+}
+
+.menuitem{
+	padding: 10px;
+	display: inline-table;
+}
+
+.menu-item-description{
+	font-size: 20px;
+	color: #4C4C54;
+}
+
+img{
+	padding: 10px;
+}
+
+.order-button{
+	width: 150px;
+	height: 50px;
+	display: inline-table;
+	font-size: 20px;
+}
