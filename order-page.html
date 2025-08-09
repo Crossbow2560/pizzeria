@@ -7,17 +7,25 @@
 	<link rel="stylesheet" type="text/css" href="order-styles.css">
 </head>
 <body class="main">
+		<div class="header">
+			<img class="logo" src="logo.png" alt="logo"><p id="heading">John Doe's Pizza</p>
+		</div>
+		<fieldset>
+		<div>
+			<p id="order-heading">Order Now</p>
+		</div>
 		<form action="submit.html" target="_self" method="GET">
 			<div class="form">
 				<fieldset>
 					<div class="input">Name: <input type="text" name="Name" placeholder="Enter your Name"></div><br/>
-					<div class="input">Address: <input type="text" name="Address" placeholder="Enter your Address"></div><br/>
+					<div class="input">Address: <textarea name="Address" placeholder="Enter your address"></textarea></div><br/>
 					<div class="input">Contact: <input type="text" name="contact" placeholder="Enter your Phone Number"></div><br/>
 					<br/>
-					<div class="input"><input type="submit" name="submit"></div><div class="input"><input type="reset" name="reset"></div>
+					<input type="submit" name="submit">  <input type="reset" name="reset">
 				</fieldset>
 			</div>
 		</form>
+	</fieldset>
 	
 
 </body>
