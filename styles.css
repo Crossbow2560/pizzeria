@@ -18,6 +18,10 @@
     width: auto;    /* Keep proportions */
 }
 
+/*.main{
+	background-color: #FCE4A4;
+}*/
+
 .menu{
 	font-family: cursive;
 	align-items: center;
@@ -93,7 +97,7 @@ img{
 #slogan{
 	width: 100%;
 	font-weight: bold;
-	font-size: 15px;
+	font-size: 20px;
 	font-family: cursive;
 	color: #4C4C54;
 }
