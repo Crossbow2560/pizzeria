@@ -1,12 +1,12 @@
 .main{
-	font-family: Arial, Helvetical, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
 }
 
 .form{
-	align: center;
+	text-align: center;
 }
 
 .input{
 	padding-block: 5px;
 }
-
