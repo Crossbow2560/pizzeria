@@ -27,6 +27,21 @@
 	color: #4C4C54;
 }
 
+#submit-desc{
+	font-size: 20px;
+	font-family: cursive;
+	font-weight: light;
+	text-align: center;
+}
+
+#submit-title{
+	font-family: cursive;
+}
+
+fieldset{
+	border-radius: 30px;
+}
+
 .footer{
 	text-align: center;
 	font-size: 20px;
