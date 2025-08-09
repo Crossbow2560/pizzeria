@@ -68,6 +68,16 @@ img{
 	height: 50px;
 	display: inline-table;
 	font-size: 20px;
+	border-radius: 30px;
+
+}
+
+.order-button:hover{
+	background-color: grey;
+}
+
+.order-button:active{
+	background-color: darkgray;
 }
 
 .pizza-price{
@@ -86,4 +96,16 @@ img{
 	font-size: 15px;
 	font-family: cursive;
 	color: #4C4C54;
+}
+
+.footer{
+	text-align: center;
+	font-size: 20px;
+	font-weight: light;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+
+fieldset{
+	border-radius: 30px;
 }

@@ -12,6 +12,12 @@
 	font-weight: bolder;
 }
 
+.in{
+	border-radius: 10px;
+	height: 25px;
+	border-width: 3px;
+}
+
 #heading{
 	font-size: 40px;
 	width: 100%;
@@ -22,14 +28,14 @@
 .header {
     display: flex;
     align-items: center;
-    justify-content: flex-start; /* Align left */
-    gap: 20px; /* Small space between logo and heading */
-    padding: 10px 20px; /* Space from page edge */
+    justify-content: flex-start;
+    gap: 20px;
+    padding: 10px 20px;
 }
 
 .logo {
-    height: 150px;   /* Adjust size */
-    width: auto;    /* Keep proportions */
+    height: 150px;
+    width: auto;
 }
 
 #order-heading{
@@ -44,4 +50,44 @@
 	font-size: 15px;
 	font-family: cursive;
 	color: #4C4C54;
+}
+
+#submit{
+	border-radius: 10px;
+	height: 30px;
+	width: 100px;
+}
+
+#submit:hover{
+	background: grey;
+}
+
+#submit:active{
+	background: darkgray;
+}
+
+#reset{
+	border-radius: 10px;
+	height: 30px;
+	width: 100px;
+}
+
+#reset:hover{
+	background: grey;
+}
+
+#reset:active{
+	background: darkgray;
+}
+
+.footer{
+	text-align: center;
+	font-size: 20px;
+	font-weight: light;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+
+fieldset{
+	border-radius: 30px;
 }
