@@ -112,3 +112,8 @@ fieldset{
 	background: #EFBE7D;
 	overflow: hidden;
 }
+
+a{
+	text-decoration: none;
+	color: black;
+}

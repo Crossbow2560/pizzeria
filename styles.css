@@ -100,11 +100,12 @@ img{
 	display: inline-table;
 	font-size: 20px;
 	border-radius: 30px;
+	background-color: #D5851A;
 
 }
 
 .order-button:hover{
-	background-color: grey;
+	background-color: #F4AA69;
 }
 
 .order-button:active{
@@ -152,4 +153,9 @@ fieldset{
 	border-color: mediumpurple;
 	transform: translate(0px, -5px);
 	transition: transform 0.3s ease;
+}
+
+a{
+	text-decoration: none;
+	color: black;
 }
